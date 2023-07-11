@@ -1,0 +1,17 @@
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.csproj.AssemblyReference.cache
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.Form1.resources
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.csproj.GenerateResource.cache
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.AssemblyInfoInputs.cache
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.AssemblyInfo.cs
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.csproj.CoreCompileInputs.cache
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\bin\Debug\net6.0-windows\PRIMERPARCIAL.exe
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\bin\Debug\net6.0-windows\PRIMERPARCIAL.deps.json
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\bin\Debug\net6.0-windows\PRIMERPARCIAL.runtimeconfig.json
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\bin\Debug\net6.0-windows\PRIMERPARCIAL.dll
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\bin\Debug\net6.0-windows\PRIMERPARCIAL.pdb
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.dll
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\refint\PRIMERPARCIAL.dll
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.pdb
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\PRIMERPARCIAL.genruntimeconfig.cache
+C:\Users\Redmo\source\repos\PRIMERPARCIAL\obj\Debug\net6.0-windows\ref\PRIMERPARCIAL.dll

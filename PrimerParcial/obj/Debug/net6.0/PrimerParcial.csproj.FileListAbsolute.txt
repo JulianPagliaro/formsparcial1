@@ -1,0 +1,15 @@
+C:\Users\Redmo\source\repos\PrimerParcial\bin\Debug\net6.0\PrimerParcial.exe
+C:\Users\Redmo\source\repos\PrimerParcial\bin\Debug\net6.0\PrimerParcial.deps.json
+C:\Users\Redmo\source\repos\PrimerParcial\bin\Debug\net6.0\PrimerParcial.runtimeconfig.json
+C:\Users\Redmo\source\repos\PrimerParcial\bin\Debug\net6.0\PrimerParcial.dll
+C:\Users\Redmo\source\repos\PrimerParcial\bin\Debug\net6.0\PrimerParcial.pdb
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.csproj.AssemblyReference.cache
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.AssemblyInfoInputs.cache
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.AssemblyInfo.cs
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.csproj.CoreCompileInputs.cache
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.dll
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\refint\PrimerParcial.dll
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.pdb
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\PrimerParcial.genruntimeconfig.cache
+C:\Users\Redmo\source\repos\PrimerParcial\obj\Debug\net6.0\ref\PrimerParcial.dll
